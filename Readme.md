@@ -19,8 +19,8 @@ process and maybe more.
 
 ## Build
 
-To build this project, you will need CMake and some modern C++ compiler like GCC
-or Clang. Here is how to build it using CMake:
+To build this project, you will need CMake, GNU Make and some modern C++
+compiler like GCC or Clang. Here is how to build it using CMake:
 
 ```
 cmake -B cmake-build -S .
